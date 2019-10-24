@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.8.2)
+  - HandyJSON (5.0.0-beta.1)
+  - Kingfisher (5.3.1)
+  - SnapKit (4.2.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftHEXColors (1.2.0)
+  - SwiftMessages (6.0.2):
+    - SwiftMessages/App (= 6.0.2)
+  - SwiftMessages/App (6.0.2)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON (~> 5.0.0-beta.1)
+  - Kingfisher
+  - SnapKit
+  - SVProgressHUD
+  - SwiftHEXColors
+  - SwiftMessages
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - HandyJSON
+    - Kingfisher
+    - SnapKit
+    - SVProgressHUD
+    - SwiftHEXColors
+    - SwiftMessages
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  HandyJSON: 582477127ab3ab65bd2e471815f1a7b846856978
+  Kingfisher: d9e7e0b209b59b8f9873aa2f37654e81a7beea51
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftHEXColors: a4ebe93a70890a9fa124e205dd785cc7552273b4
+  SwiftMessages: 8b3cc68dba2f1c91aac1a74c90b10287aac35371
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 79db99dd53197b44939c1aa6856a9751a2d19cf5
+
+COCOAPODS: 1.5.2
